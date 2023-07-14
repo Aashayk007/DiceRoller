@@ -1,4 +1,4 @@
-# sample_proj
+# DICE_ROLLER
 
 A new Flutter project.
 
