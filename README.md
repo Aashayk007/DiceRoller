@@ -1,16 +1,9 @@
-# DICE_ROLLER
+# DiceRoller Pro
 
-A new Flutter project.
+DiceRoller Pro is the ultimate companion for all your tabletop gaming adventures and random number needs. This feature-rich dice rolling app brings the excitement of rolling physical dice to your digital device, providing you with a convenient and customizable way to generate random numbers for a variety of purposes.
 
-## Getting Started
+# Output 
 
-This project is a starting point for a Flutter application.
+<img width="399" alt="Screenshot 2023-09-02 at 2 50 24 PM" src="https://github.com/Aashayk007/DiceRoller/assets/121026691/26311c3a-8a84-4f7a-8750-0f3b3061784a">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="393" alt="Screenshot 2023-09-02 at 2 50 12 PM" src="https://github.com/Aashayk007/DiceRoller/assets/121026691/b5204d33-f3ce-44a2-a8da-a67c1eac888c">
